@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "(ECCV 2024) Nickel and Diming Your GAN"
-date:   2024-05-19 17:95:43
+title:  "(ECCV 2024) Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation"
+date:   2024-05-19 17:09:43
 author: Sangyeop Yeo, Yoojin Jang, Jaejun Yoo
 categories:
 - ECCV 2024

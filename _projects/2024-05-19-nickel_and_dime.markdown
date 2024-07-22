@@ -6,7 +6,7 @@ author: Sangyeop Yeo, Yoojin Jang, Jaejun Yoo
 categories:
 - ECCV 2024
 img: nickel_and_dime.gif
-thumb: slt_thumb.gif
+thumb: nickel_and_dime_thumb.gif
 carousel:
 - single01.jpg
 - single02.jpg

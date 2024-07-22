@@ -6,7 +6,7 @@ author: Sangyeop Yeo, Yoojin Jang, Jy-yong Sohn, Dongyoon Han, Jaejun Yoo
 categories:
 - AAAI 2023
 img: slt_animation.gif
-thumb: thumb01.jpg
+thumb: slt_thumb.gif
 carousel:
 - single01.jpg
 - single02.jpg

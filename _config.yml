@@ -4,8 +4,8 @@
 title: Sangyeop's Archive
 description: "Sangyeop's Archive"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "https://aka-eve.github.io/" #important: start with /
-url: "https://aka-eve.github.io/"
+baseurl: "https://sangyeopyeo.github.io/" #important: start with /
+url: "https://sangyeopyeo.github.io/"
 
 # Build settings
 markdown: kramdown

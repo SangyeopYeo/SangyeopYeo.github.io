@@ -1,9 +1,9 @@
-<div id="publicationwrap">
-    <div class="publication-centered">
+<div id="portfoliowrap">
+    <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
-        <div class="recentitems publication">
+        <div class="recentitems portfolio">
             {% for project in site.projects limit:include.limit %}
-                <div class="publication-item graphic-design">
+                <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
                         <div class="he-view">
@@ -16,6 +16,6 @@
                     </div><!-- he wrap -->
                 </div><!-- end col-12 -->
             {% endfor %}
-        </div><!-- publication -->
-    </div><!-- publication container -->
-</div><!--/Publicationwrap -->
+        </div><!-- portfolio -->
+    </div><!-- portfolio container -->
+</div><!--/Portfoliowrap -->

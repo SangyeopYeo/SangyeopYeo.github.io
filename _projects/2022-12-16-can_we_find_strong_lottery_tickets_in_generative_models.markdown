@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "(AAAI 2023) Can We Find Strong Lottery Tickets in Generative Models?"
-date:   2022-12-16 16:54:46
+date:   2022-12-16 07:20:28
 author: Sangyeop Yeo, Yoojin Jang, Jy-yong Sohn, Dongyoon Han, Jaejun Yoo
 categories:
 - AAAI 2023

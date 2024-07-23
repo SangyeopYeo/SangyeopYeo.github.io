@@ -34,15 +34,9 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
+  - title: github
+    url: https://github.com/SangyeopYeo
+  - title: linkedin
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.

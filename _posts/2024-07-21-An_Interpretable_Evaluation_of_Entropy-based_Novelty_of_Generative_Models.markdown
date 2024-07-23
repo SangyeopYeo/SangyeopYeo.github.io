@@ -4,10 +4,9 @@ title: "(ICML 2024) An Interpretable Evaluation of Entropy-based Novelty of Gene
 date: 2024-07-21 07:54:46
 author: Sangyeop
 categories:
-- 2024 Conference
 - Evaluation Metrics
-img: post03.jpg
-thumb: thumb03.jpg
+img: 
+thumb: 
 ---
 
 KENqejklfqjfklqefjeqfeq

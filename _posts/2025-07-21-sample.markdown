@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Sample"
+date: 2025-07-21 07:54:46
+author: Sangyeop
+categories:
+- Evaluation Metrics
+img: post03.jpg
+thumb: thumb03.jpg
+---
+
+content

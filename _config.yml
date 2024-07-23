@@ -60,14 +60,14 @@ email: sangyeop377@gmail.com
 # Members information. Shown on About page.
 members:
   - name: Jaejun Yoo
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+    position: UNIST Assistant Professor
+    text: M.S. & Ph.D advisor.
+    img: jaejunyoo.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: jaejun.yoo@unist.ac.kr
+      # - title: twitter
+      #   url: http://twitter.com/handle
 #   - name: Paul Jameson
 #     position: Lead Designer
 #     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -108,7 +108,7 @@ members:
 #     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "About."
+about: "Website for studying generative models."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:

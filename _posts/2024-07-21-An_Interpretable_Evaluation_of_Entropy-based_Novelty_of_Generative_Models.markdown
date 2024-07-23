@@ -5,8 +5,6 @@ date: 2024-07-21 07:54:46
 author: Sangyeop
 categories:
 - Evaluation Metrics
-img: 
-thumb: 
 ---
 
 KENqejklfqjfklqefjeqfeq

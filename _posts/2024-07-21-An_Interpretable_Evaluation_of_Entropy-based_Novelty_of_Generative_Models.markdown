@@ -5,6 +5,8 @@ date: 2024-07-21 07:54:46
 author: Sangyeop
 categories:
 - Evaluation Metrics
+img: post_ICML.jpg
+thumb: thumb_ICML.jpg
 ---
 
 a 작성중

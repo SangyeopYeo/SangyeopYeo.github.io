@@ -37,7 +37,10 @@ social:
   - title: github
     url: https://github.com/SangyeopYeo
   - title: linkedin
-    url:
+    url: https://linkedin.com/in/sangyeopyeo
+  - title: envelope
+    url: sangyeop377@gmail.com
+  # - title: google
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -46,7 +49,7 @@ address:
     - 44919, Ulsan,
     - Republic of Korea.
 email: sangyeop377@gmail.com
-# tel: +34 8493-4893
+linkedin: https://linkedin.com/in/sangyeopyeo
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -106,6 +109,6 @@ about: "Website for studying generative models."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "This is an archive created to supplement the limited capacity of my brain. It deals with computer vision and mostly covers topics related to generative models. In addition to the latest papers, it also includes essential foundational papers as well as mathematics and engineering based on books. Blog posts, excluding publication-related content, are written in Korean."
+    message: "This blog deals with computer vision and mostly covers topics related to generative models. In addition to the latest papers, it also includes essential foundational papers as well as mathematics and engineering based on books. Blog posts, excluding publication-related content, are written in Korean."
     author: Sangyeop Yeo
     position: Combined Master's and Ph.D. Programs - Lab. of Advanced Imaging Tech (LAIT) at Ulsan National Institute of Science and Technology (UNIST)
